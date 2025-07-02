@@ -2,3 +2,5 @@ numpy
 pandas
 hmmlearn
 matplotlib
+sklearn
+optuna
